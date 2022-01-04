@@ -2,8 +2,8 @@
 # My Contact:
 * Phone: +38 093 815 24 44
 * E-mail: [nestero4ek@gmai.com]
-* GitHub: [Jekan4eek] [https://github.com/Jekan4eek]
-* Telegram [Jekan4ik] [https://t.me/jekan4ik]
+* GitHub: [https://github.com/Jekan4eek]
+* Telegram: [https://t.me/jekan4ik]
 ## About Me
 I am 23 years old, i work as a drug dealer. I think that my actual job will lead me to prison. 
 I don't want to go to jail. Therefore, I am mastering the profession of a front-end developer.
@@ -29,4 +29,13 @@ I don't want to go to jail. Therefore, I am mastering the profession of a front-
   </style>
 
   ```
+
+  ## Education:
+  ***National Technical University National Technical University «Kharkiv Polytechnic Institute»***
+  *Mechanical Technology*
+  ## Languages:
+  **Rusian** - native speaker.
+  **English** - beginer.
+
+
  
