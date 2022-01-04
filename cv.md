@@ -31,10 +31,12 @@ I don't want to go to jail. Therefore, I am mastering the profession of a front-
   ```
 
   ## Education:
-  ***National Technical University National Technical University «Kharkiv Polytechnic Institute»***
+  ***National Technical University National Technical University «Kharkiv Polytechnic Institute»***  
+
   *Mechanical Technology*
   ## Languages:
-  **Rusian** - native speaker.
+  **Rusian** - native speaker.  
+  
   **English** - beginer.
 
 
