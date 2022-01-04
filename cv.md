@@ -5,7 +5,7 @@
 * GitHub: [https://github.com/Jekan4eek]
 * Telegram: [https://t.me/jekan4ik]
 ## About Me
-I am 23 years old, i work as a drug dealer. I think that my actual job will lead me to prison. 
+I am 32 years old, i work as a drug dealer. I think that my actual job will lead me to prison. 
 I don't want to go to jail. Therefore, I am mastering the profession of a front-end developer.
 ## Skills
 - Eat
@@ -36,7 +36,7 @@ I don't want to go to jail. Therefore, I am mastering the profession of a front-
   *Mechanical Technology*
   ## Languages:
   **Rusian** - native speaker.  
-  
+
   **English** - beginer.
 
 
